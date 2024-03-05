@@ -25,7 +25,6 @@ export default function TodoList() {
     <>
       <tr>
         <th>Description</th>
-
         <input
           placeholder="Description"
           value={todo.description}
